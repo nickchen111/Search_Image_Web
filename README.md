@@ -14,5 +14,8 @@
       ![image](https://github.com/nickchen111/Search_Image_Web/blob/main/img/%E6%9B%B4%E5%A4%9A%E5%9C%96%E7%89%871.png)
   * 點選結果
       ![image](https://github.com/nickchen111/Search_Image_Web/blob/main/img/%E6%9B%B4%E5%A4%9A%E5%9C%96%E7%89%872.png)
-      
-//串接pixel API React Axios來寄送http requestd可以直接獲取的資料使用不用再將資料.json 在資料的處理上比較方便
+*技術細節:
+ * 串接API
+ * 使用React框架達到SPA(sigle-page-application)的效果 使用 AJAX技術，我們可以編寫一些在瀏覽器上運行的 JavaScript。JavaScript 將向伺服器發出request ，接收response並使用新數據更新當前 HTML 頁面。 整個過程中， 只有數據通過網絡傳輸，而不是一個全新的 HTML 頁面
+ * 利用Axios來寄送http request, 可以直接獲取的資料使用, 不用再將資料.json, 如此一來在資料的處理上比較方便
+
