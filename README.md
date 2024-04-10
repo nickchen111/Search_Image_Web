@@ -2,7 +2,7 @@
 
 # 專案說明
 * 網站功能: 串接其他網站的API並且利用React技術做出一個圖片搜尋網站, 使用者可以輸入關鍵字來搜尋相關圖片
-* 網站畫面:
+* 網站版面:
   * 網站首頁
       ![image](https://github.com/nickchen111/Search_Image_Web/blob/main/img/%E7%B6%B2%E7%AB%99%E9%A6%96%E9%A0%81.png)
       首頁呈現的會是piexel網站當日精選圖片, 使用者可以在搜尋欄搜尋關鍵字, 並且得到的圖片會顯示作者名稱以及可供下載的按鈕
@@ -23,7 +23,7 @@
 # English Version
 * **Website Functionality:** Integrating APIs from other websites and utilizing React technology to create an image search website. Users can enter keywords to search for related images.
 
-* **Website Screens:**
+* **Website Layout:**
   * **Homepage:**
     ![Homepage](https://github.com/nickchen111/Search_Image_Web/blob/main/img/%E7%B6%B2%E7%AB%99%E9%A6%96%E9%A0%81.png)
     The homepage displays a selection of images from the Pixabay website. Users can search for keywords in the search bar and the resulting images will show the author's name along with a download button.
